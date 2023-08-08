@@ -25,9 +25,9 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 16. Orange 🍊 
 17. Mushrooms
 18. Mozzarella 
-19. 
-20.  
-21. 
+19. cheese.
+20.
+21.  
 22. 
 23. 
 24. 
@@ -40,4 +40,5 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 31. 
 32. 
 33. 
+34. 
 
